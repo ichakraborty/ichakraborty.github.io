@@ -1,0 +1,30 @@
+- id: iaprd-may2025
+  title: "Novel Deep Learning Models for Automatic Assessment of Motor Disease Severity in Parkinson’s Disease"
+  organization: "World Congress on Parkinson’s Disease and Related Disorders"
+  date: "May 2025"
+  description: "Selected as a Spotlight submission at the World Congress on Parkinson's Disease and Related Disorders Conference earlier this year!"
+  url: "https://www.iaprd-world-congress.com/iaprd-2025/"
+  image: "iaprd.png"
+  # video: "worldlabs-dec2.mp4"
+
+- id: nlm-dec2024
+  title: "National Library of Medicine (NLM) Training Program in Biomedical Informatics and Data Science Fellow"
+  organization: "National Library of Medicine, National Institute of Health"
+  date: "December 2024"
+  description: "Awarded prestigious Predoctoral fellowship to fully fund my PhD with Biomedical Informatics & Data Science training, collaborating with the Baylor College of Medicine, Neurology and Neurosurgery"
+  url: "https://www.gulfcoastconsortia.org/home/training/bmi-nlm/"
+  image: "nlm.png"
+  # video: "worldlabs-dec2.mp4"
+
+# - id: google-3d-shopping-may2025
+#   title: "Generating 3D Products"
+#   organization: "Google Research"
+#   date: "May 2025"
+#   description: "Transform a few photos into interactive 3D shopping experiences using generative AI."
+#   url: "https://research.google/blog/bringing-3d-shoppable-products-online-with-generative-ai/"
+#   image: "google-3d-shopping.jpg"
+#   video: "google-3d-products.mp4"
+#   tags:
+#     - "Generative AI"
+#     - "3D Reconstruction"
+#     - "Computer Vision"
